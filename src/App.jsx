@@ -1,9 +1,9 @@
 import React from 'react'
-import StudentPortal from './Pages/StudentPortal'
+import StudentRejistration from './Pages/StudentRejistration'
 function App() {
   return (
     <>
-   <StudentPortal/>
+    <StudentRejistration/>
       </>
   )
 }
