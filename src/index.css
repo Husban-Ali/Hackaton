@@ -1,4 +1,4 @@
-/* LoginForm.css */
+
 
 .container {
   max-width: 400px;
@@ -6,9 +6,9 @@
   margin-top: 10%;
   padding: 20px;
   text-align: center;
-  /* border: 1px solid #ddd; */
+  
   border-radius: 8px;
-  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  
 }
 
 .logo {
@@ -28,7 +28,7 @@
 .button-container {
   display: flex;
   flex-direction: column;
-  gap: 10px; /* Optional: Adjust the space between buttons */
+  gap: 10px; 
 }
 .tab-container {
   display: flex;

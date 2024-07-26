@@ -17,7 +17,7 @@ function StudentPortal() {
           <input
             type="text"
             id="cnic"
-            placeholder="Kindly provide the CNIC number used during SMIT course registration."
+            placeholder="CNIC"
             className="input"
           />
         </div>
