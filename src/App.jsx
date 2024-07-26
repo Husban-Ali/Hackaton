@@ -5,11 +5,7 @@ import StudentPortal from './Pages/StudentPortal'
 function App() {
   return (
     <>
-  
    
-   <Route path="/" element={<Homepage />} />
-   <Route path="/studentportal" element={<StudentPortal />} />
-  
       </>
   )
 }
